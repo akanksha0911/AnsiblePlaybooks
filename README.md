@@ -7,8 +7,8 @@ Ansbile playbooks
 <img width="1790" alt="Screen Shot 2021-09-11 at 1 48 47 PM" src="https://user-images.githubusercontent.com/77387431/132961259-6cbc5e7d-3b93-4afa-868d-59758aef7428.png">
 
  ## Run Installation
+ <img width="1596" alt="Screen Shot 2021-09-11 at 2 11 05 PM" src="https://user-images.githubusercontent.com/77387431/132961721-53850350-373d-48fe-8959-352aea17491e.png">
 
-<img width="790" alt="Screen Shot 2021-09-11 at 1 46 37 PM" src="https://user-images.githubusercontent.com/77387431/132961279-e19951ea-2fe0-4410-9648-880b68056991.png">
 
  ## Verify Result
 
